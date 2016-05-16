@@ -7,7 +7,7 @@ A list of tools and services for development, collaboration and productivity.
 - [slack](http://www.slack.com) - Chat, file sharing and general collaboration
 - [trello](http://www.trello.com) - Kanban boards and lists
 
-## Open source, self-hosted equivalents
+## Open source, self-hosted equivalents (see https://github.com/Kickball/awesome-selfhosted for more)
 
 - [Restyaboard](http://restya.com/board) - Kanban, Trello equivalent
 - [Mattermost](http://www.mattermost.org/) - Chat, Slack equivalent
@@ -17,7 +17,8 @@ A list of tools and services for development, collaboration and productivity.
 - [Wallabag](https://www.wallabag.org/) - Article saving, Instapaper/Pocker equivalent
 - [OwnCloud](https://owncloud.org/) - Document sharing/collaboration, Dropbox/Box/Google Drive equivalent
 - [Bookie](http://docs.bmark.us/en/latest/) - Social Bookmarking, Del.icio.us equivalent
-- []() - Image and web page social clipboards, Pinterest equivalent
+- [Myyna](http://www.myyna.com/#home) - Image and web page social clipboards, Pinterest equivalent
+- [Pinry](http://getpinry.com/) - Image and web page social clipboards, another Pinterest equivalent
 
 
 - [Kong](http://getkong.org) - API Gateway
