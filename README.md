@@ -7,7 +7,8 @@ A list of tools and services for development, collaboration and productivity.
 - [slack](http://www.slack.com) - Chat, file sharing and general collaboration
 - [trello](http://www.trello.com) - Kanban boards and lists
 
-## Open source, self-hosted equivalents (see https://github.com/Kickball/awesome-selfhosted for more)
+## Open source, self-hosted equivalents
+see https://github.com/Kickball/awesome-selfhosted for more
 
 - [Restyaboard](http://restya.com/board) - Kanban, Trello equivalent
 - [Mattermost](http://www.mattermost.org/) - Chat, Slack equivalent
