@@ -25,6 +25,7 @@ see https://github.com/Kickball/awesome-selfhosted for more
 - [Nunux::Keeper](http://keeper.nunux.org/welcome) - Web clipping and notes, Evernote equivalent
 - [Trigger Happy](https://trigger-happy.eu/) - micro Enterprise Service Bus/Workflow, IFTT equivalent
 - [Huggin](https://github.com/cantino/huginn) - Workflow/pipelines, IFTT equivalent-ish?
+- [Discourse](https://www.discourse.org/) - Comments/discussion, Disqus equivalent
 
 
 
